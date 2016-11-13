@@ -11,7 +11,7 @@ public class Classe {
 
 	}
 
-	public Classe(int parametro1) { // contrutor
+	public Classe(int parametro1) { // construtor
 
 	}
 
